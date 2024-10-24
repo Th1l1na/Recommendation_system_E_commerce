@@ -1,0 +1,10 @@
+Flask
+mysql-connector-python
+bcrypt
+DateTime
+flask-cors
+scikit-learn
+numpy
+fuzzywuzzy[speedup]
+pandas
+scikit-surprise
