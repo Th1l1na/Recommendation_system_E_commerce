@@ -72,15 +72,21 @@ Follow these steps to set up the project locally.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/product-recommendation-system.git
+    git clone https://github.com/Th1l1na/Recommendation_system_E_commerce
     ```
 2. Navigate to the project directory:
     ```bash
-    cd product-recommendation-system
+    cd Recommendation_system_E_commerce
     ```
-3. Install the required dependencies:
+3. Install the required dependencies for backend:
     ```bash
+    cd backend
     pip install -r requirements.txt
+    ```
+4. Install the required dependencies for frontend:
+    ```bash
+    cd frontend
+    npm install
     ```
 
 ### Database Setup
@@ -106,7 +112,7 @@ Follow these steps to set up the project locally.
     ```bash
     flask run
     ```
-2. Access the system by visiting [http://localhost:5000](http://localhost:5000) in your browser.
+2. Access the system by visiting [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Future Enhancements
 
