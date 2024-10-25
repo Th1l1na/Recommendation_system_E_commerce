@@ -123,9 +123,9 @@ Follow these steps to set up the project locally.
 ## Contributors
 
 - [Thilina Samarasekara](https://github.com/Th1l1na)
-- [Thulasika Nayanjalee]()
+- [Thulasika Nayanjalee](https://github.com/Nayananjalee)
 - [Kanjana Jayasinghe]()
-- [Thimalka Costa]()
+- [Thimalka Costa](https://github.com/thimax01)
 
 ## License
 
