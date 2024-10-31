@@ -59,6 +59,11 @@ The main dashboard displays personalized recommendations based on user preferenc
 ### 5. Wishlist:
 Users can add interesting products to their wishlist for future reference.
 
+
+## Data Set:
+Amazon is one of the biggest online retailers in the UK. With this dataset, you can get an in-depth idea of what products sell best, which SEO titles generate the most sales, the best price range for a product in a given category, and much more.
+https://www.kaggle.com/datasets/asaniczka/amazon-uk-products-dataset-2023
+
 ## Getting Started
 
 Follow these steps to set up the project locally.
