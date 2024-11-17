@@ -129,7 +129,7 @@ Follow these steps to set up the project locally.
 
 - [Thilina Samarasekara](https://github.com/Th1l1na)
 - [Thulasika Nayanjalee](https://github.com/Nayananjalee)
-- [Kanjana Jayasinghe]()
+- [Kanjana Jayasinghe](https://github.com/KanjanaJayasinghe)
 - [Thimalka Costa](https://github.com/thimax01)
 
 ## License
